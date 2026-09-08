@@ -1,0 +1,11 @@
+{
+  "name": "racdox-creative-portfolio",
+  "version": "1.0.0",
+  "description": "Ultra-premium creative portfolio with modern luminous theme",
+  "scripts": {
+    "dev": "npx serve -l 3000 ."
+  },
+  "keywords": ["portfolio", "creative-developer", "lms", "web-agency"],
+  "author": "RACDOX Studio",
+  "license": "MIT"
+}
